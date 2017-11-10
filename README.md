@@ -1,2 +1,2 @@
 # Random-Quote-Machine
-A Codepen.io App that shows a new random quote whenever a button is pressed.
+A codepen.io appliaction that show a random quote when a 'New Quote'-button is pressed and also allows the user to share the shown quote on Twitter!
